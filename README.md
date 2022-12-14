@@ -1,1 +1,1 @@
-# First-step-pscp-project
+# for training and university project submission only*
